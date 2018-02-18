@@ -1,0 +1,26 @@
+{
+  "name": "r.e.z.o.l.u.t._bot",
+  "version": "1.0.0",
+  "description": "REZOLUT\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D.\u001b[C.\u001b[C.\u001b[C.\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[DE\u001b[2~.e\u001b[3~\u001b[3Z\u001b[CO\u001b[CL.U.T. bot EVE Online corp",
+  "main": "R.E.S.O.L.U.T._bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GomDzhabbar/Z.E.Z.O.L.U.T._bot.git"
+  },
+  "author": "Gom_Dzhabbar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GomDzhabbar/Z.E.Z.O.L.U.T._bot/issues"
+  },
+  "homepage": "https://github.com/GomDzhabbar/Z.E.Z.O.L.U.T._bot#readme",
+  "dependencies": {
+    "jsdom": "^6.5.1",
+    "xmlhttprequest": "^1.7.0",
+    "node-strophe": "^2.0.0",
+    "discord.js": "*",
+    "forever": "^0.15.3"
+  }
+}
